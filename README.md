@@ -1,1 +1,1 @@
-Made a simple guessing game. You try to guess the coreect number with 10 attempts. 
+Made a simple number guessing game. You try to guess the coreect number with 10 attempts. 
